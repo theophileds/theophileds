@@ -25,11 +25,6 @@
   pageRef = "consultancy"
   weight = 30
 
-[[main]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
