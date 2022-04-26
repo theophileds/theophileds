@@ -1,1 +1,1 @@
-# Webcome to my personal GitHub profile.
+# Welcome to my personal GitHub!
