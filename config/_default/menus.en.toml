@@ -22,7 +22,12 @@
 
 [[main]]
   name = "Consultancy"
-  pageRef = "Consultancy"
+  pageRef = "consultancy"
+  weight = 30
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
   weight = 30
 
 
