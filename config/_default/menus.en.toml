@@ -20,11 +20,11 @@
   pageRef = "about"
   weight = 20
 
-[[main]]
-  name = "Consultancy"
-  pageRef = "consultancy"
-  weight = 30
-
+#[[main]]
+#  name = "Consultancy"
+#  pageRef = "consultancy"
+#  weight = 30
+#
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
