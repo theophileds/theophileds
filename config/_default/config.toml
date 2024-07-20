@@ -12,3 +12,21 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+title = "Théophile de Segonzac"
+# logo = "img/logo.jpg"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Théophile de Segonzac"
+  image = "img/theo_profile.jpg"
+  headline = "DevOps, Philosopher, Nomad."
+  bio = "DevOps, Philosopher, Nomad."
+  links = [
+    { email = "mailto:theophileds@gmail.com" },
+    { github = "https://github.com/theophileds" },
+    { linkedin = "https://www.linkedin.com/in/theophileds" },
+    { medium = "https://medium.com/@theophileds" },
+    { twitter = "https://twitter.com/Theophileds" },
+  ]

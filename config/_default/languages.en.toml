@@ -1,26 +1,10 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
-rtl = false
-
-title = "Théophile de Segonzac"
-# logo = "img/logo.jpg"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2 January 2006"
-
-[author]
-  name = "Théophile de Segonzac"
-  image = "img/author.jpg"
-  headline = "DevOps, Philosopher, Nomad."
-  bio = "DevOps, Philosopher, Nomad."
-  links = [
-    { email = "mailto:theophileds@gmail.com" },
-    { github = "https://github.com/theophileds" },
-    { linkedin = "https://www.linkedin.com/in/theophileds" },
-    { medium = "https://medium.com/@theophileds" },
-    { twitter = "https://twitter.com/Theophileds" },
-  ]
+[languages.en]
+  languageCode = "en"
+  languageName = "English"
+  weight = 1
+  
+  [languages.en.params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
